@@ -1,1 +1,1 @@
-# Tipsy
+# Tipsy IOS application. 
